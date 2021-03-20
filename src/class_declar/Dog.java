@@ -11,7 +11,7 @@ package class_declar;
  */
 public class Dog {
 
-    public void dogPlays() {
+    protected void dogPlays() {
         System.out.println("Dogs plays");
         //dogEats();
     }
